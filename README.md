@@ -8,7 +8,7 @@ Confira o protótipo do site no Figma: [Protótipo](https://www.figma.com/commun
 
 ## Demonstração
 
-Você pode visualizar o site ao vivo no GitHub Pages: [Site](https://victorrochar.github.io/PAC1-SiteSeguidor/)
+Você pode visualizar o site ao vivo no GitHub Pages: [Site](https://victorrochar.github.io/loveSite/)
 
 ## Licença
 
