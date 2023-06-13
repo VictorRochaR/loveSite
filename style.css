@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+*{
+    background-color: transparent;
+    font-family: 'Lato', sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #FFBABA;
+}
+
+.container{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+    background: #FF5252;
+    height: 420px;
+    width: 424px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.btnNao{
+    top: 80px;
+    right: 120px;
+    background: #A70000;
+    position: absolute;
+    color: white;
+    width: 80px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btnSim{
+    top: 80px;
+    left: 120px;
+    background: #03A700;
+    position: absolute;
+    color: white;
+    padding: 10px;
+    width: 80px;
+    border-radius: 5px;
+    border: 0;
+}
+
+.btnSim:hover{
+    background-color: #8BE589;
+    color: black;
+}
+
+img{
+    position: absolute;
+    left: 45px;
+    width:70%;
+    visibility: hidden;
+}
